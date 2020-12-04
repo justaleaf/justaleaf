@@ -16,8 +16,8 @@ Graduated from a bachelor's degree in Software Engineering. I became interested 
 - [x] IBM Call for Code Student vs Climat Change - 3rd place in Energy Sustainability category (team MOEVM Masters)
 
 ## My Github stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=justaleaf)](https://github.com/anuraghazra/github-readme-stats)
-
+[![My github stats](https://github-readme-stats.vercel.app/api?username=justaleaf)](https://github.com/anuraghazra/github-readme-stats)  
+![Profile views](https://komarev.com/ghpvc/?username=justaleaf)
 ## Links to me
 - [Kaggle](https://www.kaggle.com/nikitavaganov)
 - [VK](https://vk.com/woghan)  
