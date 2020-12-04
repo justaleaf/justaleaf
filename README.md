@@ -1,5 +1,11 @@
 ### Hi there 👋
+## My Github stats
 [![My github stats](https://github-readme-stats.vercel.app/api?username=justaleaf)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tech & tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vusialstudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 <!--
 **justaleaf/justaleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
