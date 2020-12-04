@@ -11,6 +11,10 @@ Graduated from a bachelor's degree in Software Engineering. I became interested 
 - [x] python nlp libs (nltk, textblob and many others)
 - [x] other basic skills (C/C++, Java, jquery)  
 
+## My achievements
+- [x] Worst person on Earth - according to my friends
+- [x] IBM Call for Code Student vs Climat Change - 3rd place in Energy Sustainability category (team MOEVM Masters)
+
 ## My Github stats
 [![My github stats](https://github-readme-stats.vercel.app/api?username=justaleaf)](https://github.com/anuraghazra/github-readme-stats)
 
