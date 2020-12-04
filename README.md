@@ -18,6 +18,11 @@ Graduated from a bachelor's degree in Software Engineering. I became interested 
 ## My Github stats
 [![My github stats](https://github-readme-stats.vercel.app/api?username=justaleaf)](https://github.com/anuraghazra/github-readme-stats)
 
+## Links to me
+- [Kaggle](https://www.kaggle.com/nikitavaganov)
+- [VK](https://vk.com/woghan)  
+To be continued
+
 ## Tech & tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vusialstudio&logoColor=white&color=2bbc8a)
