@@ -5,7 +5,7 @@ Graduated from a bachelor's degree in Software Engineering. I became interested 
 ## Experience with
 - [x] Linux (name 5 two-letter commands in bash and other interview questions)
 - [x] Flask
-- [x] basic webstack (HTML+CSS+JS)
+- [x] basic webstack (HTML+CSS+JS) & advanced (VueJS)
 - [x] ml (scikit-learn)
 - [x] CV stack (PCL, OpenCV, ROS)
 - [x] data stack (pandas, mpl)
