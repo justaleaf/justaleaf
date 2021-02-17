@@ -21,6 +21,7 @@ R&D's master student. Now working on mathematical and software support of artifi
 ## Links to me
 - [Kaggle](https://www.kaggle.com/nikitavaganov)
 - [VK](https://vk.com/woghan)  
+- [LinkedIn](https://www.linkedin.com/in/nikita-vaganov-588a391ab/)  
 To be continued
 
 ## Tech & tools
