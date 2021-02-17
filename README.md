@@ -1,7 +1,6 @@
 # Hire me pls с:
 ## About
-R&D's master student in the field of "Mathematical and software support of artificial intelligence systems" at ETU LETI.
-Graduated from a bachelor's degree in Software Engineering. I became interested in ML / AI while still in my undergraduate degree, defended my final qualification work related to the analysis of scientific articles using machine learning methods
+R&D's master student. Now working on mathematical and software support of artificial intelligence systems. Studying at ETU LETI. Have bachelor degree in Software Engineering. Interested in ML/AI, especially NLP and CV fields.
 ## Experience with
 - [x] Linux (name 5 two-letter commands in bash and other interview questions)
 - [x] Flask
