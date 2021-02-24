@@ -1,4 +1,3 @@
-# Hire me pls с:
 ## About
 R&D's master student. Now working on mathematical and software support of artificial intelligence systems. Studying at ETU LETI. Have bachelor degree in Software Engineering. Interested in ML/AI, especially NLP and CV fields.
 ## Experience with
