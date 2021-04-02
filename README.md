@@ -13,7 +13,8 @@ R&D's master student. Now working on mathematical and software support of artifi
 
 ## My achievements
 - [x] Worst person on Earth - according to my friends
-- [x] IBM Call for Code Student vs Climat Change - 3rd place in Energy Sustainability category (team MOEVM Masters)
+- [x] IBM Call for Code Student vs Climat Change - 3rd place in Energy Sustainability category (team MOEVM Masters, [submission](https://github.com/Nightbot1448/IBM_hackathon))  
+- [x] CASE-IN 2021 - participant (4th place in Digital Atom category, team Lapis, [submission](https://github.com/moevm/casein2021)) 
 
 ## My Github stats
 [![My github stats](https://github-readme-stats.vercel.app/api?username=justaleaf)](https://github.com/anuraghazra/github-readme-stats)  
