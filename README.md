@@ -1,10 +1,12 @@
-# Hire me pls с:
+# Fullstack Python Developer
 ## About
-R&D's master student. Now working on mathematical and software support of artificial intelligence systems. Studying at ETU LETI. Have bachelor degree in Software Engineering. Interested in ML/AI, especially NLP and CV fields.
+R&D's master student. Now working on mathematical and software support of artificial intelligence systems. Studying at ETU LETI. Have bachelor degree in Software Engineering. Interested in ML/AI, especially NLP and CV fields.  
+Currently working at Magnit.
 ## Experience with
 - [x] Linux (name 5 two-letter commands in bash and other interview questions)
-- [x] Flask
-- [x] basic webstack (HTML+CSS+JS) & advanced (VueJS)
+- [x] Flask/FastAPI
+- [x] Web (from HTML and JS to Vue)
+- [x] Celery + RabbitMQ stack (basic knowledge) 
 - [x] ml (scikit-learn)
 - [x] CV stack (PCL, OpenCV, ROS)
 - [x] data stack (pandas, mpl)
